@@ -1,4 +1,4 @@
-# SIR-COVID19-Model
+# SIR-COVID19-Model-Before-and-After-Beta-Calibration
 COVID-19 Spread Simulation Using the SIR Model
 
 📌 Overview
